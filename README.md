@@ -1,6 +1,6 @@
 # Customer Accounts Microservice
 
-![Build Status](https://github.com/YOUR_GITHUB_USERNAME/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+![Build Status](https://github.com/Samarth07k/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
@@ -18,8 +18,12 @@ This repository contains the DevOps Capstone Project: a Customer Accounts RESTfu
 
 ## Author
 
-Yash Baldawa
+Samarth Kulkarni
 
+## License
+
+Licensed under the Apache License. See [LICENSE](LICENSE)
+Samarth Kulkarni
 ## License
 
 Licensed under the Apache License. See [LICENSE](LICENSE)
